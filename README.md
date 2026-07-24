@@ -2,112 +2,77 @@
 
 # 👋 Hey there! I'm Sapare Vijay Kanth
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Software+Engineer;Cloud+Computing+Enthusiast;System+Design+Architect;DevOps+Passionate;AI+%26+Automation+Explorer" alt="Typing SVG" />
-
-<br/>
-
-[![Visitors](https://komarev.com/ghpvc/?username=saparevijay&style=flat-square&color=0891b2)](https://github.com/saparevijay)
-[![GitHub followers](https://img.shields.io/github/followers/saparevijay?label=Follow&style=flat-square&color=0891b2)](https://github.com/saparevijay?tab=followers)
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Software+Engineer;Data+Analyst" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a **passionate Software Engineer** based in **Bangalore, Karnataka, India**, dedicated to crafting scalable, reliable, and high-performance software solutions. I thrive on solving complex technical challenges and staying at the forefront of emerging technologies.
+I'm a **Data Analyst** based in **Bangalore, Karnataka, India**, currently working at **Capgemini**, where I specialize in transforming raw data into meaningful business insights and supporting data-driven decision-making.
 
-With a deep interest in **Cloud Computing**, **DevOps**, **System Design**, **Artificial Intelligence**, and **Automation**, I'm committed to building products that make a real-world impact. I believe in continuous learning, sharing knowledge with the developer community, and contributing to open-source initiatives.
+With hands-on experience in **SQL**, **Python**, **Informatica**, **ETL Development**, and **Unix/Linux**, I enjoy designing efficient data pipelines, optimizing data workflows, and ensuring high-quality data integration across enterprise systems. My expertise lies in data analysis, data transformation, reporting, and ETL processes that help organizations unlock the value of their data.
 
-> "Code is not just about solving problems; it's about creating solutions that stand the test of time."
+I am passionate about **Data Engineering**, **Business Intelligence**, **Cloud Technologies**, **Data Analytics**, **Automation**, and **Artificial Intelligence**. I continuously explore new tools, technologies, and best practices to improve data processing efficiency and deliver impactful solutions.
+
+I believe in continuous learning, knowledge sharing, and leveraging data to solve complex business challenges and drive innovation.
+
+> 📊 "Data is meaningful only when transformed into insights that drive informed decisions."
 
 ---
 
 ## 💼 Professional Journey
 
-- 🎯 **Current Focus**: Building scalable cloud-native applications and mastering system architecture
-- 🌱 **Learning Path**: Deepening expertise in distributed systems, microservices, and advanced DevOps practices
-- 🔬 **Passion Areas**: Cloud technologies, system design, automation, and developer productivity
-- 🌍 **Vision**: Becoming a highly skilled Cloud-Native Software Engineer and contributing significantly to the tech community
+- 📊 **Current Focus**: Analyzing data, developing ETL solutions, and delivering actionable business insights
+- 🌱 **Learning Path**: Expanding expertise in Data Engineering, Cloud Data Platforms, Advanced Analytics, and AI-driven solutions
+- 🔬 **Passion Areas**: Data Analytics, ETL Development, Data Warehousing, Automation, Business Intelligence, and Data Visualization
+- 🚀 **Core Expertise**: SQL, Informatica PowerCenter, Python, Unix/Linux, ETL Processes, Data Validation, and Reporting
+- 🌍 **Vision**: Becoming a highly skilled Data & Analytics professional who transforms complex data into meaningful business value
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+### 📊 Data Analytics & ETL
 
-### 🎨 Frontend Technologies
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Informatica PowerCenter](https://img.shields.io/badgeFF4F00?style=flat-square&logoColor=white
+![IICS](https://img.shields.io/badge/IICS-FF6B00?style=flatlogoColor=white
+![ETL](https://img.shields.io/badge/ETL-0052CC?style=flat&logoColor=white
+![Data Integration](https://img.shields.io/badge/Data%20Integration-1F6FEB?style=flat-square# 💻 Programming & Query Languages
 
-### 🔧 Backend Technologies
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?styleogo=oracle&logoColor=white
+![SQL](https://img.shields.io/badge/SQL-336791?lat-square&logo=postgresql&logoColor=white
+![Python](https://img.shields.io/badge/Pythonyle=flat-square&logo=python&logoColor=white
 
-### ☁️ Cloud Platforms
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+### 🗄️ Database Technologies
 
-### 🚀 DevOps & Automation
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-02303A?style=flat-square&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Oracle Database](https://img.shields.io/badge/Oracle-F80000?styleracle&logoColor=white
+![Data Warehousing](https://img.shields.io/badge/Data%20Warehousing-003B57?style=flat-square# 📈 Reporting & Visualization
 
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BIe=flat-square&logo=powerbi&logoColor=black
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&l&logoColor=white
+![Data Analysis](https://img.shields.io/badge/Data%20Analysist-square&logoColor=white
 
-### 🛠️ Development Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+### 🔌 APIs & Integration
 
-### 💾 Operating Systems
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=fastapi&logoColor=whiteration](https://img.shields.io/badge/API%20Integration-0A66C2?style=flat-square## 🛠️ Tools & Platforms
 
----
+![VS Code](https://img.shields.io/badge007ACC?style=flat-square&logo=visual-studio-code&logoColor=white
+![Git](https://img.shields.io/bt-F05032?style=flat-square&logo=git&logoColor=white
+![GitHub](https://img.shields.io/badge/GitHub-181717t-square&logo=github&logoColor=white
 
-## 📊 GitHub Analytics
+### 🐧 Operating Systems
 
-<div align="center">
+![UNIX](https://img.shieldse/UNIX-000000?style=flat-square&logo=linux&logoColor=white
+![Linux](https://imgio/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black
+![Windows](https://img.shields.io/badge/Windows-0078D4?square&logo=windows&logoColor=white
 
-### 📈 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saparevijay&theme=nord&show_icons=true&hide_border=true&count_private=true)](https://github.com/saparevijay)
+### 🌱 Currently Exploring
 
-### 🔥 Contribution Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=saparevijay&theme=nord&hide_border=true)](https://github.com/saparevijay)
+![Azure](https://img.shields/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-E25A1C?style=flat-squareogoColor=white
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=flat-squarewhite
 
-### 💡 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saparevijay&theme=nord&show_icons=true&hide_border=true&layout=compact)](https://github.com/saparevijay)
-
-### 📅 Activity Graph
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saparevijay&theme=nord&hide_border=true)](https://github.com/saparevijay)
-
-</div>
 
 ---
 
@@ -115,61 +80,65 @@ With a deep interest in **Cloud Computing**, **DevOps**, **System Design**, **Ar
 
 | 🏆 Project | 📝 Description | 🛠️ Tech Stack | 🔗 Link |
 |:---|:---|:---|:---|
-| **[Project Name 1]** | Brief description of the project and its impact | Python, FastAPI, PostgreSQL, Docker | [Repository](https://github.com/saparevijay/PROJECT_REPO_1) |
-| **[Project Name 2]** | Brief description of the project and its impact | React, Node.js, MongoDB, AWS | [Repository](https://github.com/saparevijay/PROJECT_REPO_2) |
-| **[Project Name 3]** | Brief description of the project and its impact | Go, Kubernetes, Terraform, GCP | [Repository](https://github.com/saparevijay/PROJECT_REPO_3) |
-| **[Project Name 4]** | Brief description of the project and its impact | TypeScript, Vue.js, Express, Azure | [Repository](https://github.com/saparevijay/PROJECT_REPO_4) |
-
-> 💡 **Tip**: Replace project names, descriptions, and repository links with your actual projects
-
----
-
-## 🏆 Achievements & Contributions
-
-- ⭐ Active open-source contributor
-- 🎓 Continuous learner and knowledge sharer
-- 🚀 Deployed scalable solutions impacting users globally
-- 💻 Multiple repositories with growing community engagement
-- 📝 Technical writer and community contributor
-- 🔗 Collaboration enthusiast across distributed teams
-
----
-
-## 🎯 What I'm Currently Doing
-
-<div align="center">
-
-| | |
-|:---|:---|
-| 🔭 **Currently Working On** | Building cloud-native applications and exploring Kubernetes orchestration patterns |
-| 🌱 **Currently Learning** | Advanced distributed systems design, AI/ML integration, and enterprise architecture |
-| 👯 **Open to Collaborate** | On open-source projects, technical blog posts, and innovative startup ideas |
-| 💬 **Ask Me About** | Cloud computing, system design, DevOps practices, Python, and software architecture |
-| ⚡ **Fun Fact** | I believe debugging is an art form, and coffee is the fuel for great code! ☕ |
+| **Personal Portfolio Website** | A responsive personal portfolio showcasing my skills, projects, certifications, and professional journey with a modern UI/UX design. | HTML, CSS, JavaScript, Vercel | [View Project](https://vijaysapare.vercel.app/) |
+| **Iris-Based Authentication & Key Agreement** | A security-focused project implementing iris-based biometric authentication with updatable blind credentials for enhanced privacy, secure authentication, and protection against credential compromise. | Python, Biometrics, Cryptography, Security Research | [Repository](https://github.com/saparevijay/Iris-AKA) |
+| **Scientific Calculator** | One of my earliest projects that helped strengthen my programming fundamentals and problem-solving skills while implementing advanced mathematical operations. | Python | [Repository](https://github.com/saparevijay/Scientific-Calculator) |
+| **GitHub Profile Repository** | My GitHub profile repository containing a professionally designed README along with details about my skills, projects, and learning journey. | Markdown, GitHub | [Repository](https://github.com/saparevijay/sapare-vijay) |
 
 </div>
 
+
 ---
 
-## 🎓 Certifications & Credentials
+## 🏆 Professional Highlights
 
-- 🏅 **[Certification Name]** - [Issuing Organization] - *[Year]*
-- 🏅 **[Certification Name]** - [Issuing Organization] - *[Year]*
-- 🏅 **[Certification Name]** - [Issuing Organization] - *[Year]*
+- 📊 Specialized in ETL development and data integration using Informatica PowerCenter (IPC) and IICS
+- 🗄️ Strong expertise in Oracle SQL, query optimization, data validation, and data quality assurance
+- 📈 Built interactive reports and dashboards using Power BI and Excel to support data-driven decision making
+- 🔄 Experience working across the complete ETL lifecycle, from data extraction and transformation to deployment and support
+- 🔌 Integrated enterprise data from multiple sources through APIs, databases, and ETL frameworks
+- 🐧 Proficient in Unix/Linux environments for job monitoring, troubleshooting, and production support
+- 🚀 Passionate about Data Analytics, Data Engineering, Business Intelligence, and process automation
+- 🌱 Continuously exploring Cloud Data Technologies, AI-powered analytics, and modern data solutions
+- 🤝 Experienced collaborating with cross-functional teams in Agile enterprise environments
+- 💡 Dedicated to transforming complex data into actionable insights that drive business value
+---
 
-> 💡 **Tip**: Replace with your actual certifications and credentials
+## 🎯 Current Focus
 
+<div align="center">
+
+| 🎯 Area | 📌 Details |
+|----------|-------------|
+| 🔭 Working On | Developing and optimizing ETL workflows using Informatica PowerCenter (IPC) and IICS while ensuring data quality, accuracy, and reliability |
+| 🌱 Learning | Data Engineering, Cloud Data Platforms, AI-powered Analytics, and Advanced Power BI |
+| 🤝 Open to Collaborate | ETL Development, Data Analytics Projects, SQL Optimization, Dashboard Development, and Data Engineering Solutions |
+| 💡 Expertise | Oracle SQL, Informatica PowerCenter (IPC), IICS, ETL Development, API Integrations, Unix, Python, Power BI, and Data Analysis |
+| 🚀 Goal | Transforming data into actionable insights that drive business decisions and operational excellence |
+| ⚡ Fun Fact | I enjoy turning complex datasets into meaningful stories and automating repetitive processes to improve efficiency 📊🚀 |
+
+</div>
 ---
 
 ## 📞 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saparevijay)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL_ADDRESS)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TWITTER_URL)
+<a href="https://www.linkedin.comsapare
+  <img src="https://img.shields.io/badge0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+</a>
+
+<atps://github.com/saparevijay
+  /GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+https://vijaysapare.vercel.app/" target="_blank">
+  /badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+<a href="mailto:saparevijay12@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&white
+</a>
 
 </div>
 
@@ -177,48 +146,38 @@ With a deep interest in **Cloud Computing**, **DevOps**, **System Design**, **Ar
 
 ## 🎯 2026 Goals
 
-- 📚 **Deepen Cloud Expertise**: Master advanced AWS/GCP services and Kubernetes at enterprise scale
-- 🏗️ **System Design Mastery**: Contribute to designing systems serving millions of users
-- 🔓 **Open Source Impact**: Maintain 2-3 popular open-source projects
-- 📖 **Knowledge Sharing**: Write 12+ technical blog posts on system design and cloud architecture
-- 🤝 **Community Building**: Mentor junior developers and grow the tech community
-- 🎖️ **Professional Growth**: Pursue advanced certifications in cloud architecture and distributed systems
+- 📊 **Advance Data Analytics Skills**: Strengthen expertise in data analysis, visualization, and business intelligence solutions
+- 🔄 **Master ETL & Data Integration**: Deepen knowledge of Informatica PowerCenter (IPC), IICS, and enterprise-scale data integration architectures
+- 🗄️ **Oracle SQL Excellence**: Improve query optimization, performance tuning, and advanced database development skills
+- 📈 **Power BI Expertise**: Build interactive dashboards and advanced analytics reports that drive business decisions
+- ☁️ **Explore Cloud Data Technologies**: Learn Azure Data Services, cloud-based ETL solutions, and modern data engineering practices
+- 🤖 **AI & Data Innovation**: Explore AI-powered analytics, machine learning fundamentals, and intelligent automation opportunities
+- 🏆 **Professional Certifications**: Earn certifications in Data Analytics, Cloud Technologies, and Business Intelligence platforms
+- 📚 **Continuous Learning**: Contribute to personal projects, expand technical knowledge, and stay updated with emerging data technologies
+- 🤝 **Knowledge Sharing**: Share insights, projects, and learning experiences with the data community through GitHub and LinkedIn
+- 🚀 **Career Growth**: Evolve into a highly skilled Data & Analytics Professional capable of delivering impactful, data-driven solutions
 
 ---
 
-## 💭 My Developer Philosophy
+## 🌟 Let's Turn Data Into Insights Together!
 
-```
-"Great software is not built in a day. It's crafted through:
-  
-  → Continuous Learning: Stay curious, explore new technologies
-  → Code Quality: Write clean, maintainable, and well-documented code
-  → Problem Solving: Break down complexity into elegant solutions
-  → Collaboration: Learn from others, share knowledge generously
-  → User Focus: Always consider the end-user experience
-  → Performance: Build systems that scale and optimize resources
-  → Open Mindedness: Embrace new ideas and different perspectives"
-```
+I’m always excited to collaborate on **Data Analytics**, **ETL Development**, **Business Intelligence**, **Power BI Dashboards**, and **Data Engineering** projects.
 
----
+Whether you're looking to discuss **Oracle SQL**, **Informatica PowerCenter (IPC)**, **IICS**, **Python**, **Power BI**, **API Integrations**, or modern data solutions, I'd be happy to connect and exchange ideas.
 
-## 🌟 Let's Build Something Amazing Together!
-
-I'm always excited to collaborate on innovative projects, discuss software architecture, or explore new technologies. Whether you're looking for a teammate, seeking technical advice, or just want to connect over shared interests in software engineering—**feel free to reach out!**
+I believe that data has the power to drive smarter decisions, uncover opportunities, and create meaningful business impact.
 
 <div align="center">
 
-### ⭐ If you find my work valuable, consider giving a star to my repositories!
+### ⭐ If you find my work helpful, consider giving a star to my repositories!
 
-**Let's create the future of software together.** 🚀
+**Together, let's transform data into actionable insights and build smarter solutions.** 📊🚀
 
 </div>
 
 ---
 
 <div align="center">
-
-![Visitor Badge](https://img.shields.io/badge/Page%20Views-since%202024-blue)
 
 Made with ❤️ by [Sapare Vijay Kanth](https://github.com/saparevijay)
 
